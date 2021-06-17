@@ -1,2 +1,2 @@
-# ds-algos-continue
+# DS Algo Continue....
 A continued effort to keep myself in touch with algorithms and data structures.
